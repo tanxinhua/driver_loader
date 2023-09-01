@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="driver_loader">
+    </qresource>
+</RCC>
